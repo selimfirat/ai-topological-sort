@@ -20,23 +20,23 @@ The objective was the finding class precedence lists using topological sort. The
 
 ![Figure 9.2 -> Sort Blimpy](1.png)
 
-* Figure 9.4 -> Sort Blimpy
+* `Figure 9.4` -> `Sort Blimpy`
 
 ![Figure 9.4 -> Sort Blimpy](2.png)
 
-* Figure 9.5 -> Sort Crazy
+* `Figure 9.5` -> `Sort Crazy`
 
 ![Figure 9.5 -> Sort Craz](3.png)
 
-* Figure 9.5 -> Sort Jackue
+* `Figure 9.5` -> `Sort Jackue`
 
 ![Figure 9.5 -> Sort Jackue](4.png)
 
-* Figure 9.6 -> Sort Crazy
+* `Figure 9.6` -> `Sort Crazy`
 
 ![Figure 9.6 -> Sort Crazy](5.png)
 
-* Figure 9.6 -> Sort Jackue
+* `Figure 9.6` -> `Sort Jackue`
 
 ![Figure 9.6 -> Sort Jackue](6.png)
 
